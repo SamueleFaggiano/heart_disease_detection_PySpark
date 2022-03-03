@@ -1,4 +1,4 @@
-# heart_disease_detection_PySpark
+# Heart Disease Detection in PySpark
 
 In this code, a neural network (DNN) has been implemented in Pyspark.
 The target is to predict if a patient has an heart disease or not according to his/her bioparameters. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease. The feature are the following:
