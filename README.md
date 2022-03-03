@@ -15,5 +15,8 @@ The target is to predict if a patient has an heart disease or not according to h
 * the slope of the peak exercise ST segment
 * number of major vessels (0-3) colored by flourosopy
 * thal: 0 = normal; 1 = fixed defect; 2 = reversable defect
+
 The names and social security numbers of the patients were recently removed from the database, replaced with dummy values.
 This dataset dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. 
+
+The accuracy in the test set reaches 89.5%. 
